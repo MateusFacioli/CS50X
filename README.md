@@ -15,9 +15,9 @@ commands
   left: turn left
   space bar: release the car and start the game
   
-  #################################################################################
-	
+#################################################################################  
+
 lecture 1 using sandbox.cs50.io or ide.cs50.io 
 Simple hello world in C, using hello.c file.
 Print blocks in Mario Game, using mario.c file.
-Print blocks2 in Mario Game
+Print blocks2 in Mario Game, using mario2.c file.
