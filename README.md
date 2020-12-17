@@ -21,4 +21,4 @@ lecture 1 using sandbox.cs50.io or ide.cs50.io
 Simple hello world in C, using hello.c file.
 Printing blocks in Mario Game, using mario.c file.
 Printing blocks2 in Mario Game, using mario2.c file.
-Giving change (minimum of coins)  in real life, using cash.c file. 
+Giving change Greedy Algorithm (minimum of coins)  in real life, using cash.c file. 
