@@ -22,3 +22,4 @@ Simple hello world in C, using hello.c file.
 Printing blocks in Mario Game, using mario.c file.
 Printing blocks2 in Mario Game, using mario2.c file.
 Giving change Greedy Algorithm (minimum of coins)  in real life, using cash.c file. 
+Check Credit Card Luhn's Algorithm (mod 10) using credit.c file.
