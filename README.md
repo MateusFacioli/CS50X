@@ -29,3 +29,7 @@ Check Credit Card Luhn's Algorithm (mod 10) using credit.c file.
 lecture 2 readability and Coleman-Liau index using readability.c file.
 Caesar’s cipher (key-> number positive) using caesar.c file.
 substitution cipher  (key -> 26 alphabetic characters) using substitution.c file.
+
+##################################################################################
+
+lecture 3 plurality election using plurality.c file.
